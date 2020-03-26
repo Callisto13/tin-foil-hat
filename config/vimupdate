@@ -1,0 +1,6 @@
+#!/bin/bash
+
+nvim --headless +PlugInstall +PlugUpdate +GoUpdateBinaries +qall
+nvim --headless +UpdateRemotePlugins +qall
+
+source /root/.bashrc

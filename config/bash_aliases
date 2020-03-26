@@ -1,0 +1,2 @@
+alias vim='nvim'
+alias kubectl='kubectl --insecure-skip-tls-verify=true'

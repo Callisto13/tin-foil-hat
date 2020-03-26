@@ -1,0 +1,4 @@
+Plug 'WolfgangMehner/c-support'
+Plug 'christoomey/vim-tmux-navigator'
+Plug 'arzg/vim-corvine'
+Plug 'scwood/vim-hybrid'
